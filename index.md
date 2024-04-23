@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: David Whipp's CV
+title: Naima Alam's CV
 ---
 # Naima Alam
 Graduate Research Assistant, University of Kansas Medical Center
