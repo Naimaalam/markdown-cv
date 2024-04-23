@@ -23,11 +23,15 @@ FI-00014 University of Helsinki, Finland<br/>
 
 ## Education
 
-`2003-2008`
-**Ph.D., Geology**, *University of Michigan*, Ann Arbor, MI, USA.
+`2023-Present`
+**Ph.D., Biostatiatics**, *University of Kansas Medical Center*, Kansas City, KS, USA.
 
-`1998-2002`
-**B.S., Geology (Physics minor)**, *University of Michigan*, Ann Arbor, MI, USA.
+`2021-2022`
+**M.S., Statiatics**, *Texas Tech University*, Lubbock, Texas, USA.
+
+`2016-2021`
+**B.S., Statistics**, *University of Dhaka*, Dhaka, Bangladesh.
+
 
 ## Experience
 
