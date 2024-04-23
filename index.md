@@ -2,8 +2,8 @@
 layout: cv
 title: David Whipp's CV
 ---
-# David Whipp
-Professor, University of Helsinki
+# Naima Alam
+Graduate Research Assistant, University of Kansas Medical Center
 
 Institute of Seismology, Department of Geosciences and Geography<br/>
 P.O. Box 68 (Pietari Kalmin katu 5)<br/>
